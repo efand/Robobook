@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Robobook/static/css/main.b66e252e.chunk.css",
+    "main.js": "/Robobook/static/js/main.c8bc3e30.chunk.js",
+    "main.js.map": "/Robobook/static/js/main.c8bc3e30.chunk.js.map",
+    "runtime-main.js": "/Robobook/static/js/runtime-main.5bbc673a.js",
+    "runtime-main.js.map": "/Robobook/static/js/runtime-main.5bbc673a.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Robobook/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.5eed4196.chunk.js": "/Robobook/static/js/2.5eed4196.chunk.js",
+    "static/js/2.5eed4196.chunk.js.map": "/Robobook/static/js/2.5eed4196.chunk.js.map",
+    "index.html": "/Robobook/index.html",
+    "precache-manifest.30c0f5a893a80672a9b64eeebc74bc0a.js": "/Robobook/precache-manifest.30c0f5a893a80672a9b64eeebc74bc0a.js",
+    "service-worker.js": "/Robobook/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Robobook/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.b66e252e.chunk.css.map": "/Robobook/static/css/main.b66e252e.chunk.css.map",
+    "static/js/2.5eed4196.chunk.js.LICENSE.txt": "/Robobook/static/js/2.5eed4196.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Robobook/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bbc673a.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.5eed4196.chunk.js",
+    "static/css/main.b66e252e.chunk.css",
+    "static/js/main.c8bc3e30.chunk.js"
+  ]
+}
